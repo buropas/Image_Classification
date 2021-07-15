@@ -13,7 +13,7 @@ At the end, we can take for instance the 3 most likely category labels for the o
 ![alt text](https://github.com/buropas/Image_Classification/blob/main/git_img_class_2.png?raw=true)
 
 ## Folder content:
-- Image Classification with pre-trained VGG16 (Jupyter Notebook)
+- Image Classification with pre-trained VGG16 (Notebook)
 - image_class_1.jpg (input image of classification task)
 - image_class_2.jpg (input image of classification task)
 - image_class_3.jpg (input image of classification task)
